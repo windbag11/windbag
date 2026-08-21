@@ -1,0 +1,7 @@
+[submodule "windbagblog/themes/shibui"]
+	path = windbagblog/themes/shibui
+	url = https://github.com/ntk148v/shibui.git
+[submodule "windbagblog/public"]
+	path = windbagblog/public
+	url = https://github.com/windbag11/windbag11.github.io.git
+	branch = main
