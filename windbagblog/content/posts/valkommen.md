@@ -18,8 +18,11 @@ Asha was never more successful than Lata. She was always pitted against her olde
 
 Asha's part in *The Shadowy Light* goes: 
 > चल, मेरे माझी, गहरा है पानी
+>
 > मुझे जाना उस पार
+>
 > जहाँ सुख हो, ना दुख हो
+>
 > जहाँ जय हो, ना हार हो
 
 She's essentially singing to her boatman, to take her to the other side of the river, where sorrow and defeat do not exist. She was initially hesitant about collaborating with Gorillaz but listening to the song and the rest of the lyrics convinced her otherwise. At its announcement, she had talked about her visit to Varanasi, where, when she was travelling on the Ganga river, she reflected on how her "crossing this deep river signifies my life’s journey… my birth, my relationships, my dedication to music, my achievements and my duties". She reflected upon her music being her boatman, her "guide across this river of life", leading her to the other side of the river where her completed journey ends in attaining moksha, becoming "one of the thousands of sounds floating all around us". 
